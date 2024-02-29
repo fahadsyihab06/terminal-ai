@@ -44,4 +44,4 @@ Proot
 # info script 
 SCRIPT 100% AMAN DAN WORK 
 
-<img src="https://i.ibb.co/Cw9Cqv1/Screenshot-2023-12-28-21-34-53-36.png" alt="Screenshot-2023-12-28-21-34-53-36" border="0">
+<a href="https://ibb.co/pwwsCmh"><img src="https://i.ibb.co/bmmypfb/Screenshot-2024-02-29-19-37-25-27.png" alt="Screenshot-2024-02-29-19-37-25-27" border="0"></a>
