@@ -30,6 +30,7 @@ bash chat-terminal.sh
 Kali-linux
 nethunter
 Proot
+Termux
 ```
 
 # Subscribe 
@@ -44,4 +45,4 @@ Proot
 # info script 
 SCRIPT 100% AMAN DAN WORK 
 
-<a href="https://ibb.co/pwwsCmh"><img src="https://i.ibb.co/bmmypfb/Screenshot-2024-02-29-19-37-25-27.png" alt="Screenshot-2024-02-29-19-37-25-27" border="0"></a>
+<a href="https://ibb.co/f9sxXmR"><img src="https://i.ibb.co/bFkK6ph/Screenshot-2024-03-02-14-43-09-90.png" alt="Screenshot-2024-03-02-14-43-09-90" border="0"></a>
